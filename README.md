@@ -1,8 +1,6 @@
-This app developted with Flutter and it's back end  API was made with Wordpress (Wordpress is a CMS ).
+This app developed with Flutter and it's back handled with WordPress  CMS .
 
-This application make for Herat Exchange Union(HEU) which it use for get information about currency rates every moment that you want.
-you can aware the newest news Through this application about currency changes and 
-also this app resealed in "Play store" and "App store". click the below link.
+This application make for Herat Exchange Union(HEU) which it use for get information about currency rates every moment that you want. you can aware the newest news Through this application about currency changes and also this app resealed in "Play store" and "App store". click the below link.
 
 Play store link
 https://play.google.com/store/apps/details?id=com.tutiatech.moneyexchangeunion
